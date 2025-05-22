@@ -21,4 +21,5 @@
 * kaju paste
 * panner
 * mysore masala
-* onion and tomota
+* onion and tomota 
+* capsicum
