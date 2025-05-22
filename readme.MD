@@ -7,16 +7,10 @@
 ## Koram Dosa
 * dosa batter
 * koram
+## Egg-Dosa
+* Karam podi
 
-## Egg-Dosa-Srikanth
-
-* Dosa Batetr
-* 4 eggs
-* koram
-* oil
-* ghee
-
-## upma dosa
+## umpa dosa
+* karam and oil
 * Batter Dosa
-* upma and oil
 * onion added
