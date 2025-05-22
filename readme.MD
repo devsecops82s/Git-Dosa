@@ -15,3 +15,7 @@
 * koram
 * oil
 * ghee
+
+## upma dosa
+* Batter Dosa
+* upma and oil
