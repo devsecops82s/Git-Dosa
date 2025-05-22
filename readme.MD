@@ -11,3 +11,10 @@
 * koram podi
 * chanty
 
+## Egg-Dosa-Srikanth
+
+* Dosa Batetr
+* 4/5 eggs
+* oil
+* ghee
+
