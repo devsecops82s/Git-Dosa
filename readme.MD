@@ -12,8 +12,5 @@
 
 ## umpa dosa
 * karam and oil
-
-
-## upma dosa
 * Batter Dosa
-* upma and oil
+* onion added
