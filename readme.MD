@@ -8,6 +8,5 @@
 * dosa batter
 * koram
 ## Egg-Dosa-Dinesh
-* 5 eggs
 * koram podi
 
