@@ -17,3 +17,6 @@
 
 ## Panner Dosa
 * Batter Dosa
+* Ghee
+* kaju paste
+* panner
