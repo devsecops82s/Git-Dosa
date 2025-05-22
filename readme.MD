@@ -20,3 +20,4 @@
 * Ghee
 * kaju paste
 * panner
+* mysore masala
