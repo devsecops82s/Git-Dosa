@@ -14,3 +14,6 @@
 * karam and oil
 * Batter Dosa
 * onion added
+
+## Panner Dosa
+* Batter Dosa
